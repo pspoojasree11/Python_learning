@@ -1,0 +1,45 @@
+
+├── 01_Python_Basics/
+│   ├── notes.md
+│   ├── variables.py
+│   ├── data_types.py
+│   ├── operators.py
+│   ├── input_output.py
+│   └── type_casting.py
+│
+├── 02_Control_Flow/
+│   ├── notes.md
+│   ├── if_else.py
+│   ├── nested_if.py
+│   ├── for_loop.py
+│   ├── while_loop.py
+│   └── pattern_programs.py
+│
+├── 03_Functions/
+│   ├── notes.md
+│   ├── functions.py
+│   ├── arguments.py
+│   ├── lambda.py
+│   └── recursion.py
+│
+├── 04_Strings/
+│
+├── 05_Lists/
+│
+├── 06_Tuples/
+│
+├── 07_Dictionaries/
+│
+├── 08_Sets/
+│
+├── 09_File_Handling/
+│
+├── 10_Exception_Handling/
+│
+├── 11_OOP/
+│
+├── 12_Modules/
+│
+├── 13_Mini_Projects/
+│
+└── requirements.txt
